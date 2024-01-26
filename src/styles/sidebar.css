@@ -1,9 +1,10 @@
+
 .sidebar {
     position: fixed;
     left: 0;
     top: 0;
     width: 300px;
-    background-color: #000000;
+    background-color: var(--bg-sidebar);
     padding: 12px;
 
     nav {
